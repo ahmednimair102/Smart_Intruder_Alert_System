@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/ic_register_hero.xml" value="0.1255" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable-v24/wave.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable/backbutton.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable/email.xml" value="0.1255" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable/password.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable/textback.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/drawable/username.xml" value="0.1255" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_alarm.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_gallery.xml" value="0.15" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_login.xml" value="0.1859375" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_main.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_otp1.xml" value="0.18" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_otp2.xml" value="0.15" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_registration.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Ahmed Nimair/AndroidStudioProjects/Smart_Intruder_Alert_System-master/app/src/main/res/layout/activity_splash.xml" value="0.18342391304347827" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
